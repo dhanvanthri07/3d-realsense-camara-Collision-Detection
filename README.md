@@ -37,6 +37,13 @@ This project connects an Intel RealSense depth camera with an ESP32 over serial 
 
 ---
 
+## 🎥 Demo
+
+Here’s how the RealSense collision detection with ESP32 works:
+
+![Demo](docs/demo.gif)
+
+
 ## ⚙️ Installation
 
 ### 1. Python Dependencies
