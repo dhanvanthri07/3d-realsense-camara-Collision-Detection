@@ -39,7 +39,9 @@ This project connects an Intel RealSense depth camera with an ESP32 over serial 
 
 Here’s how the RealSense collision detection with ESP32 works:
 
-(![Image: demo gif…]((https://github.com/user-attachments/assets/d8b4e459-ffa1-437b-b22b-955388b1d78a)))
+![Demo](![demo-ezgif com-split](https://github.com/user-attachments/assets/cdcb8fdb-0f49-49eb-b9fd-ba0ed2f0db03)
+)
+
 
 
 
