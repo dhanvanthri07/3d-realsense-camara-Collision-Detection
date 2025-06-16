@@ -29,4 +29,16 @@ This project connects an Intel RealSense depth camera with an ESP32 over serial 
 ## 🛠️ Hardware Requirements
 
 | Component               | Description                        |
-|------------------------|---------------------------
+|------------------------|------------------------------------|
+| 🎥 RealSense D435i     | Depth-sensing camera               |
+| 🔌 ESP32 (NORVI IIoT)  | Microcontroller with serial support |
+| 💡 LED / Motor Driver  | Optional output indicator          |
+| 🧠 Computer             | Running Python 3.8+ & OpenCV       |
+
+---
+
+## ⚙️ Installation
+
+### 1. Python Dependencies
+```bash
+pip install pyrealsense2 opencv-python pyserial numpy
