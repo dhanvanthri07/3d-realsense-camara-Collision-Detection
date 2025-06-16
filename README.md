@@ -2,9 +2,6 @@
 
 A real-time 3D collision detection system using Intel® RealSense™, OpenCV, and an ESP32-based IIoT controller. Designed for automation, robotics, and industrial safety applications.
 
-(![demo gif-ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/d8b4e459-ffa1-437b-b22b-955388b1d78a)
-)
-
 ---
 
 ## 📚 Table of Contents
@@ -42,7 +39,8 @@ This project connects an Intel RealSense depth camera with an ESP32 over serial 
 
 Here’s how the RealSense collision detection with ESP32 works:
 
-demo-ezgif com-split](https://github.com/user-attachments/assets/d8b4e459-ffa1-437b-b22b-955388b1d78a
+(![Image: demo gif…]((https://github.com/user-attachments/assets/d8b4e459-ffa1-437b-b22b-955388b1d78a)))
+
 
 
 ## ⚙️ Installation
