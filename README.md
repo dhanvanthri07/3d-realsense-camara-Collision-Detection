@@ -42,8 +42,5 @@ This project connects an Intel RealSense depth camera with an ESP32 over serial 
 ### 1. Python Dependencies
 ```bash
 pip install pyrealsense2 opencv-python pyserial numpy
-## 🎥 Demo
 
-Here’s how the RealSense collision detection with ESP32 works:
 
-![Demo](docs/demo.gif)
