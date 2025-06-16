@@ -1,25 +1,10 @@
-# Project Setup Instructions
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
-Follow these steps to set up the project and contribute effectively:
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION:
+... (truncated for brevity)
 
-1. **Add the `README.md` to Your Project**:
-   - Ensure this `README.md` file is located in the root folder of your project.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
 
-2. **Create a Demo GIF**:
-   - Use tools like [OBS Studio](https://obsproject.com/) or [ScreenToGif](https://www.screentogif.com/) to record a short demo video or screen capture of your project in action.
-   - Save the demo as `demo.gif` in the `docs/` folder.
-
-3. **Commit and Push Changes**:
-   - Add and commit the `README.md` and `docs/demo.gif` to your repository.
-   - Push the changes to your GitHub repository.
-
----
-
-### Additional Assistance
-
-Would you like assistance with any of the following?
-- **Setting up a `.gitignore` file and organizing the repository structure.**
-- **Creating a placeholder for `docs/demo.gif`.**
-- **Writing comments and organizing the Python and ESP32 code in your project.**
-
-Let me know how I can help!
